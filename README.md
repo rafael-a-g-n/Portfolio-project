@@ -1,9 +1,9 @@
 # RAGN Portfolio ✨
 
 ## 👋 Introduction 
-A captivating portfolio website built to showcase my skills and projects as a Full Stack Web Developer.  This project is designed to offer a seamless and engaging user experience, highlighting my expertise and passion for crafting impactful digital experiences.
+A captivating portfolio website built to showcase my skills as a project in my Full Stack Web Developer course.  This project is designed to offer a seamless and engaging user experience, highlighting my expertise and passion for crafting impactful digital experiences.
 
-[![Project live link](https://rafael-a-g-n.github.io/Portfolio-project/)]
+[Project live link](blob:https://rafael-a-g-n.github.io/Portfolio-project/)
 
 ## 🚀 Key Features
 * **Dynamic Typing Effect:**  A visually engaging typing animation on the homepage introduces me and my key roles.
