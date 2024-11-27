@@ -3,7 +3,7 @@
 ## 👋 Introduction 
 A captivating portfolio website built to showcase my skills and projects as a Full Stack Web Developer.  This project is designed to offer a seamless and engaging user experience, highlighting my expertise and passion for crafting impactful digital experiences.
 
-[![Project live link](https://rafael-a-g-n.github.io/Portfolio-project/)]([link-to-your-deployed-site](https://rafael-a-g-n.github.io/Portfolio-project/)) 
+[![Project live link](https://rafael-a-g-n.github.io/Portfolio-project/)]
 
 ## 🚀 Key Features
 * **Dynamic Typing Effect:**  A visually engaging typing animation on the homepage introduces me and my key roles.
@@ -27,6 +27,6 @@ A captivating portfolio website built to showcase my skills and projects as a Fu
 * **JavaScript Modularity:** Breaking down JavaScript code into reusable functions for better organization and readability.
 
 ## 💖 Connect with Me
-* **LinkedIn:** [[Your LinkedIn Profile Link](https://www.linkedin.com/in/ragn/)]
+* **LinkedIn:** [[My Profile](https://www.linkedin.com/in/ragn/)]
 
 Let me know if you have any questions or would like to collaborate! 😊
